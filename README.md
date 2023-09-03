@@ -1,4 +1,4 @@
 # matrixM
 
 
-# this is the program based matrix performed on C++
+# this is the matrix multiplication program in  C++
